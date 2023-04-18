@@ -1,8 +1,7 @@
-os
 uuidflask
 urllib
 PIL
-tensorflow
+tensorflow-cpu
 flask
 keras
 matplotlib
