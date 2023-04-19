@@ -1,6 +1,5 @@
-uuidflask
-urllib
-PIL
+uuid
+flask
 tensorflow-cpu
 flask
 keras
